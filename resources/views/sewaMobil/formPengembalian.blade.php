@@ -44,7 +44,7 @@
     
             <label for="total_harga">Total Harga (Rp):</label>
             <input type="number" id="total_harga" name="total_harga" readonly><br><br>
-            <label for="total_hari">Total Hari (Rp):</label>
+            <label for="total_hari">Total Hari :</label>
             <input type="number" id="total_hari" name="total_hari" readonly><br><br>
     
             <button type="submit" class="btn btn-success mb-3">Submit</button>
